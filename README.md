@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+## Name:MONISH R
+## Reg no:212223220061
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
